@@ -27,13 +27,12 @@ align="center"><h1>Chadro-MD V2 </h1><br> </p>
 ## Obtenir Chadro Md
 
 1. Veillez cliquer sur **[Fork]()**
-https://github.com/altesse066/Chadro-MD-V2
    afin de copier le repo sur votre compte github.  veillez bien ajouter une etoile 🌟 pour encourager les développeurs 
 
 3. Obtenez une session du bot : <br>
   
 [Session-1](https://zkscan.onrender.com)  <br>
-[Session-2](https://zokouscan.onrender.com) <br>
+<br>
   
 
 ## Déploiement
@@ -46,18 +45,6 @@ https://github.com/altesse066/Chadro-MD-V2
   2.  cliquez [**ici**](https://app.koyeb.com/apps/deploy?type=git&repository=https://github.cohttps://github.com/altesse066/Chadro-MD-V2/edit/main/README.md2.0&branch=main&name=Chadro-md&env%5BNOM_OWNER%5D=FedoRA&env%5BPREFIXE%5D=~&env%5BMODE_PUBLIC%5D=non&env%5BLECTURE_AUTO_STATUS%5D=non&env%5BTELECHARGER_AUTO_STATUS%5D=oui&env%5BNOM_BOT%5D=Zokou+2.0&env%5BLIENS_MENU%5D=https://static.animecorner.me/2023/08/op2.jpg&env%5BNUMERO_OWNER%5D=22573777061&env%5BETAT%5D=1&env%5BDATABASE_URL%5D=postgres://zokou_user:b9o2NIT2r7YmvzQbH65e4Ub7ixY3T0jr@dpg-cma2fsfqd2ns73dscejg-a.oregon-postgres.render.com/zokou&env%5BWARN_COUNT%5D=3&env%5BSTARTING_BOT_MESSAGE%5D=oui&env%5BANTI_DELETE_MESSAGE%5D=oui
   ) pour deployer le bot sur **render**
 
-## Contributions
- La participation de développe Chadro est t’ouvre votre aide nous sera toujours utile les amis :
-
-  (Fancy , gpt , dalle ,apk) ; <br>
-
-**CrazyPrice** qui a heberger un second site web en pour les session_id ;
-                
-## Licence
-
-.
-
-Profitez des fonctionnalités variées du Bot WhatsApp Zokou pour améliorer vos conversations et rendre votre expérience WhatsApp plus intéressante !
 
 
 ## Developpeur :
