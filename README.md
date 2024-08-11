@@ -52,7 +52,7 @@ br>
 
  ---
  
-<a href="https://prabath-md-terms-and-rules.vercel.app/"><img src="https://img.shields.io/badge/Read%20Our%20Terms%20and%20Conditions-red" alt="DEPLOY" width="270"></a>
+<a href="https://MD-md-terms-and-rules.vercel.app/"><img src="https://img.shields.io/badge/Read%20Our%20Terms%20and%20Conditions-red" alt="DEPLOY" width="270"></a>
 
 ---
 
@@ -60,14 +60,14 @@ br>
 
 ---
 
-## 👑 **`PRABATH-MD BOT OWNERS,`** 👑
+## 👑 **`Chadro-MD BOT OWNERS,`** 👑
 
 
    <a href="https://github.com/prabathLK/"><img src="https://avatars.githubusercontent.com/u/106251140?v=4" width=80 height=80></a>   
 
 ---
 
-|**[`Prabath Kumara`](https://github.com/prabathLK)**|
+|**[`Chadro Kumara`](https://github.com/prabathLK)**|
 
 ---
 
@@ -87,7 +87,7 @@ br>
 <br>
 
 
-![license](https://img.shields.io/github/license/prabathLK/PRABATH-MD?color=green&label=License&style=plastic)
+![license](https://img.shields.io/github/license/prabathLK/Chadro-MD?color=green&label=License&style=plastic)
 
 
 
