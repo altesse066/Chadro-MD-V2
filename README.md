@@ -3,7 +3,7 @@ align="center"><h1>Chadro-MD V2 </h1><br> </p>
 
 
 
-![banner](Chadro.jpg)
+![banner](https://telegra.ph/file/8c3bfe16e2510936e8420.jpg)
 
  Chadro MD V2 est un bot a plusieurs commandes qui peuvent vous servir à théoriser vos victimes il est développé par Chadro.
 
