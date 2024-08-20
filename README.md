@@ -19,7 +19,7 @@ align="center"><h1>Chadro-MD V2 </h1><br> </p>
 
 ## Fonctionnalités Ludiques
 
-- **Blagues et Devinettes :** Zokou est équipé d'une collection de blagues et de devinettes pour égayer vos conversations.
+- **Blagues et Devinettes :** Chadro MD est équipé d'une collection de blagues et de devinettes pour égayer vos conversations.
 
 - **Citations Inspirantes :** Recevez des citations inspirantes pour vous motiver au quotidien.
 
